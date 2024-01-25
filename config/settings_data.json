@@ -35,15 +35,15 @@
       "navbar": {
         "type": "navbar",
         "settings": {
-          "bg_color": "bg-white text-dark",
+          "bg_color": "bg-light text-dark",
           "shadow": "shadow-sm",
           "menu_desktop": "",
           "logo": "shopify:\/\/shop_images\/starline-tents-logo.jpg",
           "logo_height_mobile": 40,
           "logo_height_desktop": 40,
           "offcanvas_menu_header_bg": "bg-dark text-white",
-          "menu_mobile": "",
-          "utilities_menu": "main-menu",
+          "menu_mobile": "feather-flags",
+          "utilities_menu": "feather-flags",
           "offcanvas_menu_show_social_icons": true,
           "pt": 3,
           "pb": 3
