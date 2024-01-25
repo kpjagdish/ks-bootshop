@@ -19,6 +19,7 @@
     "social_youtube": "#",
     "social_linkedin": "",
     "social_whatsapp": "#",
+    "checkout_layout": "threepage",
     "buttons_border_radius": "0.25rem",
     "cart_goal_enable": true,
     "cart_goal_value": 300,
