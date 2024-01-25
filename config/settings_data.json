@@ -46,8 +46,8 @@
           "logo_height_mobile": 40,
           "logo_height_desktop": 40,
           "offcanvas_menu_header_bg": "bg-dark text-white",
-          "menu_mobile": "feather-flags",
-          "utilities_menu": "feather-flags",
+          "menu_mobile": "",
+          "utilities_menu": "",
           "offcanvas_menu_show_social_icons": true,
           "pt": 3,
           "pb": 3
