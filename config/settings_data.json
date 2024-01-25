@@ -153,17 +153,23 @@
 
     ],
     "blocks": {
+      "16278478101612877664": {
+        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "12645029315662244871": {
         "type": "shopify:\/\/apps\/meteor-mega-menu\/blocks\/app_embed\/9412d6a7-f8f8-4d65-b9ae-2737c2f0f45b",
         "disabled": false,
         "settings": {
-          "navigation_link_caret_style": "outline",
+          "navigation_link_caret_style": "filled",
           "navigation_link_spacing": 16,
           "menu_vertical_padding": 0,
-          "menu_justify_content": "center",
+          "menu_justify_content": "flex-start",
           "menu_font_size": 16,
           "menu_font_weight": "400",
-          "menu_text_transform": "none",
+          "menu_text_transform": "capitalize",
           "menu_center_in_viewport": false,
           "menu_vertical_offset": 10,
           "menu_display_action": "hover",
@@ -174,12 +180,6 @@
           "disable_mobile": false,
           "desktop_nav_selector": "",
           "mobile_nav_selector": ""
-        }
-      },
-      "16278478101612877664": {
-        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
-        "disabled": false,
-        "settings": {
         }
       }
     }
