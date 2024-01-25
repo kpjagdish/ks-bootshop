@@ -44,10 +44,7 @@
                 height="{{ 1920 | divided_by: collection.image.aspect_ratio | round }}"
                 loading="lazy"
                 style="opacity: {{ section.settings.img_opacity }};">
-            <div class="container">
-                <h1 class="collection-title mb-0 {{ section.settings.title_size }}">
-                    {{ collection.title }}
-                </h1>
+            <div class="container"> 
                 {% if section.settings.show_collection_description and collection.description != blank %}
                     <div class="description rte mt-3 mb-0 {{ section.settings.description_size }}">
                         {{ collection.description }}
