@@ -16,9 +16,6 @@
     id="list-collections-{{ section.id }}"
     class="list-collections {{ section.settings.bg_color }} {{ section.settings.text_align }} {{ pt }} {{ pb }} {{ mt }} {{ mb }}">
     <div class="container">
-        <h1 class="title mb-4 {{ section.settings.title_size }}">
-            {{ section.settings.title }}
-        </h1>
         {% unless section.settings.description == blank %}
             <div class="description rte mt-n3 mb-5 {{ section.settings.description_size }}">
                 {{ section.settings.description }}
