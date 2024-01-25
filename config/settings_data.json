@@ -37,7 +37,7 @@
         "settings": {
           "bg_color": "bg-light text-dark",
           "shadow": "shadow-sm",
-          "menu_desktop": "",
+          "menu_desktop": "main-menu",
           "logo": "shopify:\/\/shop_images\/starline-tents-logo.jpg",
           "logo_height_mobile": 40,
           "logo_height_desktop": 40,
@@ -147,14 +147,6 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "9901917232353999808": {
-        "type": "shopify:\/\/apps\/buddha-mega-menu-navigation\/blocks\/megamenu\/dbb4ce56-bf86-4830-9b3d-16efbef51c6f",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   }
 }
